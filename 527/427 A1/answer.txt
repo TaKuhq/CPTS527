@@ -1,0 +1,9 @@
+3》
+1.Have 1412 entries
+2.The most commonly used password is [('settlement', 4)]
+3.Most failed login attempts: hughesl@aol.com
+
+5》
+103，cooke,cooke@charter.net， baeded9b1da329035d2ff02c21dff480，             automaticpoor
+101，perryj@safe-mail.net,           a55d421fa52ca6807cf5118be6c19819         claypoor
+102，doc90@live.com,                  2671caa6ba7e5d5d6c20e20dc8c82465        lacepoor
